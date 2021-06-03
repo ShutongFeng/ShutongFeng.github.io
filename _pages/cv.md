@@ -11,30 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BA and MEng Information and Computer Engineering, University of Cambridge, 2019
+* Ph.D in Computer Science, Heinrich Heine University Düsseldorf, 2020 - 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* June - August 2016: Electronics Engineer Intern
+  * TT Electronics and Technology Ltd., UK
+* June - September 2017: Software Engineer Intern
+  * Livewire Digital Ltd., UK
+* June - September 2018: Software Engineer Intern
+  * Samsung Cambridge Solution Centre Ltd., UK
+* September 2019 - June 2020: Engineer
+  * Huawei Technologies Co., Ltd., China
 
 Publications
 ======
