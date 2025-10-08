@@ -6,13 +6,12 @@ author_profile: true
 ---
 
 {% if author.googlescholar %}
-  You can find my full list of publications on <u><a href="https://scholar.google.com/citations?user=fpeCQYIAAAAJ&hl=en">my Google Scholar profile</a>. Here is a selection of papers and preprints.</u>
+  You can find my full list of publications on my [Google Scholar profile](https://scholar.google.com/citations?user=fpeCQYIAAAAJ&hl=en). Here is a selection of papers and preprints.
 {% endif %}
 
 {% include base_path %}
 
-You can find my full list of publications on <u><a href="">my Google Scholar profile</a>. Here is a selection of papers and preprints.</u>
-
+You can find my full list of publications on my [Google Scholar profile](https://scholar.google.com/citations?user=fpeCQYIAAAAJ&hl=en). Here is a selection of papers and preprints.
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
